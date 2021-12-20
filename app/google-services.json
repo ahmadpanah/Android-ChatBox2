@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966718406454",
+    "project_id": "chatbox2-792a5",
+    "storage_bucket": "chatbox2-792a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966718406454:android:a2f8fe3c4be5029e463d97",
+        "android_client_info": {
+          "package_name": "ir.shariaty.chatbox2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966718406454-bmon2cp8a8dacg80omrtvqfu4iivl4tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9nmmq3mA0Cd6awb3vgqSrLPstrrPhrzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966718406454-bmon2cp8a8dacg80omrtvqfu4iivl4tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
