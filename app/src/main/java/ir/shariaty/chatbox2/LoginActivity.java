@@ -68,7 +68,7 @@ public class LoginActivity extends AppCompatActivity {
                 firebaseAuthWithGoogle(account.getIdToken());
             } catch (ApiException e) {
                 dialog.dismiss();
-                Toast.makeText(this, "e.getMessage()", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, e.getMessage().toString(), Toast.LENGTH_SHORT).show();
             }
         }
     }
