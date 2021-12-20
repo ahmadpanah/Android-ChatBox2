@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "966718406454-mnb6bp5kgajqk3co5v5borj9paedn537.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.shariaty.chatbox2",
+            "certificate_hash": "be9fe3527cbfb6bbf1fd93e823850103ae6cfb1e"
+          }
+        },
+        {
           "client_id": "966718406454-bmon2cp8a8dacg80omrtvqfu4iivl4tc.apps.googleusercontent.com",
           "client_type": 3
         }
